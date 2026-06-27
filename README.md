@@ -2,7 +2,7 @@
 
 **Author:** Salvador-Jose Mountanta Famorosa  
 **Contact:** [salvador.jose@opensource-university.org](mailto:salvador.jose@opensource-university.org)  
-**License:** Apache 2.0  
+
 
 ---
 
